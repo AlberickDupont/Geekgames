@@ -7,14 +7,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
     <title>Document</title>
-    <link rel="stylesheet" href="Styles/style.css">
+    <link rel="stylesheet" href="styles/style.css">
     <script src="Script/Script.js" defer></script>
 
 </head>
 
 <body>
     <header id="test">
-        <nav>
+        <nav class="home">
             <ul>
                 <li><a class="on" href="#">MINI JEUX</a></li>
                 <li><a href="#">CREDITS</a></li>
